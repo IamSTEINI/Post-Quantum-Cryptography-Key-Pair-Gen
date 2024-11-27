@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-	// We define our output name for our keys
+	// We define our output name for our keys here
 	var OUT_NAME_PRIVATE_KEY string = "private_key.key"
 	var OUT_NAME_PUBLIC_KEY string = "public_key.key"
 
